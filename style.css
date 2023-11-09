@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+h1{font-size:30px;}
+
+h1, h3{
+font-family: 'Agbalumo', sans-serif;
+background-color: white;
+  }
+
+.red-text{
+	color:red;
+	text-align: center;
+	 }
+
+#rounded-img{
+border-radius: 200px;
+	    }
+img{
+    width: 600px;
+    heiht:700px;
+    margin-left: 280px;
+    margin-right: auto;
+   }
+
+body {
+  background-color: lightblue;
+  opacity: 0.9;
+     }
+
+tabel, th, td{
+		border:5px dotted black;
+		color : black;
+		}
+li{
+border: 1px solid black;
+color: green;
+}
