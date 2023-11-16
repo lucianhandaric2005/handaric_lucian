@@ -15,12 +15,17 @@ background-color: white;
 #rounded-img{
 border-radius: 200px;
 	    }
-img{
+img{    
     width: 600px;
     heiht:700px;
-    margin-left: 280px;
-    margin-right: auto;
    }
+img {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  border: 20px solid black;
+}
 
 body {
   background-color: lightblue;
